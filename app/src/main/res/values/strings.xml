@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Curso Android 0</string>
+    <string name="to">Para</string>
+    <string name="subject">Asunto</string>
+    <string name="message">Mensaje</string>
+
+    <string-array name="countries_array">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Antarctica</item>
+
+
+    </string-array>
+
+
+    <string-array name="idiomas_array">
+        <item>Español</item>
+        <item>Ingles</item>
+        <item>Japones</item>
+    </string-array>
+
+</resources>
